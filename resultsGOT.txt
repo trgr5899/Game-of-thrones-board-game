@@ -1,0 +1,6 @@
+<Name>                  <Hero>              <points>
+
+y   Daenerys Targaryen   5
+Lexzi   Lexzi   1
+trevor   Cersei Lannister   117
+Trevor Green   Cersei Lannister   49
